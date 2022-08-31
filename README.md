@@ -1,6 +1,7 @@
 # Roll_Java
-Is a game of luck, using methods, conditional and loops 
-Rolling Java is a game of luck. If the user rolls:
+Is a game of luck, using method and in inside the method use a randome number to count to 1 to 6 , conditional and loops 
+
+ If the user rolls:
 
 6: the game stops.
 
